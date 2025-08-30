@@ -11,12 +11,12 @@ class FemiChatBot:
   random_questions = (
         "Why are you here? ",
         "What do you like to do? ",
-        "How’s your day going so far? ",
-        "What’s your favorite food? ",
+        "How's your day going so far? ",
+        "What's your favorite food? ",
         "Do you have a favorite movie or series? ",
         "What hobbies do you enjoy the most? ",
         "If you could learn any skill instantly, what would it be? ",
-        "What’s something new you tried recently? ",
+        "What's something new you tried recently? ",
         "If you were a superhero, what would your power be? ",
         "Would you rather fight 100 tiny robots or 1 giant chicken? ",
         "If animals could talk, which one would be the rudest? ",
@@ -90,3 +90,4 @@ class FemiChatBot:
 if __name__ == "__main__":
     bot = FemiChatBot()
     bot.greet()
+
