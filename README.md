@@ -3,7 +3,7 @@ A rule-based conversational agent built in Python that handles multi-turn dialog
  
 What it does
  
-The chatbot takes user input, identifies the intent behind it, and maps it to an appropriate response â€” handling a range of conversation flows and edge cases without relying on a language model.
+The chatbot takes user input, identifies the intent behind it, and maps it to an appropriate response, handling a range of conversation flows and edge cases without relying on a language model.
  
 Building it required thinking carefully about user experience at the language level: how should a system respond when input is ambiguous? What makes a reply feel natural rather than robotic? How do you structure a conversation so it doesn't dead-end?
  
