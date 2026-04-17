@@ -1,7 +1,7 @@
 # Conversational-Chatbot
 A rule-based conversational agent built in Python that handles multi-turn dialogue using structured intent matching and response logic.
  
-#What it does
+What it does
  
 The chatbot takes user input, identifies the intent behind it, and maps it to an appropriate response â€” handling a range of conversation flows and edge cases without relying on a language model.
  
